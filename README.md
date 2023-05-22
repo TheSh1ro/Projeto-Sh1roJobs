@@ -79,13 +79,11 @@ atualidade, ou seja, antes de seu novo software**, usando como base a situação
 
 Seguindo essas dicas, você deve ser capaz de descrever o dia-a-dia da empresa selecionada. E para ajudar na organização do texto, indicamos uma abordagem em 3 etapas:
 
-- **Introdução**: comece com um parágrafo apresentando a empresa (nome, o que faz, tempo de existência, o dono, funcionários,
-  etc);
-- **Situação-problema**: Aborde em detalhes como a empresa funciona, procurando seguir uma
-  ordem lógica dos acontecimentos e organizando parágrafos diferentes para cada coisa
-  diferente que for explicar (como faria em uma redação);
-- **Conclusão**: tenha um parágrafo de conclusão focando nos problemas que você notou dentro da situação problema analisada e aponte brevemente como um software poderia
-  ajudar a resolvê-los.
+- **Introdução**: A equipe Wolf E-Sports sente a necessidade de um software que possibilite a contratação de serviços remotos e a gerência dos mesmos, tendo em vista que realiza toda a logística de forma manual atualmente, necessita de um software completo que providencie um sistema de pagamento online prático e eficiente, facilitando o contato entre o prestador de serviço e o contratante para que o serviço comece o quanto antes, dando suporte para todas as modalidades de venda que a equipe pratica.
+- **Situação-problema**: Com a alta dos jogos online, muitos jogadores sentem a necessidade de estar ranqueado entre os melhores, seja para jogar com pessoas de alto nível ou por simples status. Porém nem sempre é possível alcançar tal ranque por conta própria, por falta de tempo/treino ou coisas do gênero. Então a equipe Wolf E-Sports, que possui muitos jogadores habilidosos, oferece uma espécie de alavancamento no ranque para aqueles que desejam contratar o serviço. O serviço geralmente consiste em o contratante enviar as informações da sua conta no jogo para o prestador de serviço, que por sua vez vai vencer nela uma quantidade de partidas conforme o que foi contratado, o custo varia de acordo com o quão longe o contratante deseja ir, sendo mais barato nos ranques mais baixos e encarecendo linearmente.
+- A Wolf E-Sports também trabalha com venda de contas neste mesmo jogo, variando o preço de acordo com três métricas principais: nível, quantidade de conteúdo adquirido na mesma e ranque.
+
+- **Conclusão**: As principais dificuldades da equipe atualmente são: a baixa confiabilidade da entrega do serviço já que o pagamento é feito de forma manual, necessitando de um software mais prático com pix integrado, e também a logística pouco eficiente que é utilizada atualmente onde o contratante entra em contato com o dono que precisa contactar cada um de seus jogadores para confirmar se há disponibilidade para atender aquele serviço, assim como o repasse do pagamento, e também seria útil um meio de contato entre cliente e prestador de serviço, ou algo do gênero para um acompanhamento em tempo real do progresso do serviço contratado.
 
 # Descrição da proposta
 
