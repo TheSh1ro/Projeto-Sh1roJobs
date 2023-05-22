@@ -104,3 +104,102 @@ desejado e permita sua continuidade.
 
 Tenha em mente que essa é uma etapa relativamente breve. Não é necessário um texto gigantesco, apenas dar uma noção do funcionamento do sistema. Mais adiante
 precisaremos ser bem detalhistas, todavia agora a intenção é apenas fazer algo que permita ao cliente nos dizer se estamos no caminho certo.
+
+# Regras de negócio
+
+##PÁGINAS
+
+PÁGINA INICIAL (Home)
+RF001 - Permitir ao visitante entrar em contato com administradores via chat
+RF001.1 - A mensagem deverá notificar via email os administradores do site
+RF002 - Exibir ao visitante informações de contato
+RF003 - Exibir ao visitante as vendas mais recentes
+RF004 - Exibir ao visitante quantos serviços estão em progresso no momento
+RF005 - Exibir número de acessos ao vivo
+
+CADASTRO
+RF001 - Requisitar ao usuário um nome completo
+RF002 - Requisitar ao usuário sua idade
+RF003 - Requisitar ao usuário seu email
+RF004 - Possibilitar ao usuário inserir seu CPF
+RF005 - Para exercer as funções de um usuário verificado, exigir a confirmação do email via verificação
+
+PÁGINA DE ADMINISTRAÇÃO
+RF001 - Exigir autenticação do usuário para acessar a página
+RF002 - Exibir todas as reclamações em aberto a partir de clientes
+RF003 - Exibir todas as reclamações em aberto a partir de vendedores
+RF004 - Exibir relatório de vendas diárias, semanais e mensais
+RF005 - Exibir todos os moderadores online no momento
+
+##TIPOS DE USUÁRIO
+
+USUÁRIO NÃO VERIFICADO
+RF001 - Restringir quaisquer alterações de dados de cadastro até que o usuário confirme o email
+RF001.1 - Permitir ao usuário trocar o email de verificação da conta
+RF002 - O usuário não verificado pode interagir somente como cliente
+
+USUÁRIO VERIFICADO
+RF001 - Permitir que o usuário cadastrado altere sua foto de perfil
+RF002 - Permitir que o usuário cadastrado altere seu nome de exibição
+RF003 - Restringir do usuário a alteração de quaisquer outros dados de cadastro, apenas via suporte
+RF004 - Permitir que o usuário cadastrado delete sua conta
+RF005 - O usuário verificado com CPF cadastrado pode interagir como vendedor na página de contas
+
+MODERADOR
+RF001 - A permissão de moderador só pode ser concedida pela administração do site
+RF002 - O moderador pode visualizar a área de reclamações em aberto
+RF003 - O moderador pode visualizar a área de reclamações em andamento
+RF004 - O moderador pode alterar informações de cadastro de usuários comuns
+
+##INTERAÇÕES COM VENDAS E AQUISIÇÕES DE CONTAS
+
+ANÚNCIO
+RF001 - Exigir que o usuário esteja logado com uma conta verificada e com CPF para exercer as funções de anunciante
+RF002 - Permitir ao anunciante divulgar uma conta
+RF003 - Exigir que anuncio tenha título
+RF003.1 - O título deve ter mais de 10 caracteres
+RF004 - Exigir que o anúncio tenha descrição 
+RF004.1 - A descrição deve ter mais de 20 caracteres
+RF004.2 - A descrição deve suportar markdown
+RF005 - Exigir que o anúncio tenha uma imagem de capa
+RF006 - Permitir que o anúncio possua imagens extras
+RF007 - Exigir que o anúncio possua um preço em BRL
+RF007.1 - O valor do preço não pode conter decimais
+
+AQUISIÇÃO
+RF001 - Exigir que o usuário esteja logado com uma conta, não necessariamente verificada
+RF002 - A aquisição de cada conta deve ser feita uma a uma, sem sistema de carrinho
+RF003 - Permitir que o usuário realize o pagamento via pix ou cartão de crédito/débito
+RF004 - Após confirmar a transação, abrir um chat para que cliente e anunciante se comuniquem e realizem a troca de informações sobre o envio do produto
+RF005 - Permitir que o usuário cliente abra uma reclamação solicitando intervenção a administração
+RF005.1 - O dinheiro da transação deve ser mantido em carteira durante 15 dias
+RF005.1 - As reclamações deverão notificar a administração via email
+RF005.2 - Ao abrir uma reclamação, o saldo do vendedor não pode ser sacado temporariamente
+RF006 - O comprador pode marcar o produto como recebido
+RF006.1 - O vendedor pode marcar o produto como entregue 
+
+##INTERAÇÕES COM VENDAS E AQUISIÇÕES DE CONTAS
+
+ANÚNCIO
+RF001 - 
+RF002 - 
+RF003 - 
+RF004 - 
+RF005 - 
+RF006 - 
+RF007 - 
+RF008 -
+RF009 - 
+RF010 -  
+
+AQUISIÇÃO
+RF001 - 
+RF002 - 
+RF003 - 
+RF004 - 
+RF005 - 
+RF006 - 
+RF007 - 
+RF008 -
+RF009 - 
+RF010 -  
