@@ -1,4 +1,4 @@
-# Projeto Integrador - Modelo
+# **Projeto Integrador - Modelo**
 
 Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
 
@@ -10,7 +10,7 @@ Links do projeto:
 - [Backend](github.com/marcoandre/pi-backend)
 - [Frontend](github.com/marcoandre/pi-frontend)
 
-# Como usar esse modelo para o Projeto Integrador
+# **Como usar esse modelo para o Projeto Integrador**
 
 1. Faça um fork desse repositório para a sua conta do GitHub.
 2. Clone o repositório para o seu computador.
@@ -18,74 +18,34 @@ Links do projeto:
 4. Tenha instalada a extensão [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) no seu editor de texto.
 5. Edite o arquivo README.md com as informações do seu projeto.
 
-# Desenvolvimento
+# **Desenvolvimento**
 
 - As equipes serão avaliadas por cada etapa da documentação e entregas realizadas.
 - Cada equipe deverá escolher um sistema para o desenvolvimento das atividades, a partir dos modelos apresentados.
 
-# Modelos de Sistemas
+# **Modelo de Sistemas: Ordem de Serviço**
 
-**Nessa parte a equipe deve escolher um dos modelos de sistemas para desenvolver o projeto. Ao escolher, escreva uma breve descrição do sistema e o motivo da escolha e pode apagar os outros modelos.**
+- O modelo escolhido permite a contratação de serviços, o que atenderá as necessidades da empresa em questão, assim como a venda de produtos, tudo realizado de forma online.
 
-## 1- Ponto de Vendas (PDV)
+# **Situação Problema**
 
-**Gerenciamento de vendas para uma padaria**
+![Imagem](docs/Logo.png "Ciclo da Venda")
 
-O nosso cliente, Sr. Genival, tem uma padaria de bairro chamada padaria Pão Genial e, devido a qualidade de seus produtos, ela está crescendo rapidamente. Recentemente, ele contratou mais funcionários para atendimento, caixa, panificação, etc.
-Assim, atualmente, ele consegue concentrar seus esforços para melhorar a gestão da padaria. Para isso, ele quer instalar um sistema de controle de vendas que permita ao caixa lançar as vendas realizadas. Como sua intenção
-é melhorar a gestão do negócio, é muito importante que ele consiga ter
-relatórios, como por exemplo, de vendas.
+## Introdução
 
-## 2- Empréstimo
+O grupo de serviços online Sh1roJobs vem atuando na área de jogos há poucos meses, tendo jogadores experientes em sua equipe e oferecendo serviços relacionados a tal como jogar na conta de seus clientes e realizar conquistas no lugar destes. O grupo sente a necessidade de um software que possibilite promover e oferecer seus serviços de modo mais profissional, tendo em vista que realiza todas as suas transações e vendas de forma manual, tratando cliente a cliente. Se tratando de um ramo que tende a receber dezenas de requisições de serviço diariamente, a maneira como se dá atualmente é limitante e inviável, necessitando de uma plataforma para tal.
 
-**Gerenciamento de uma biblioteca**
+## Desenvolvimento
 
-Uma ONG, chamada Sala Arco Íris, ajuda crianças de baixa renda em sua educação básica. Atualmente, recebeu uma doação de mais de 1000 livros e está montando a sua biblioteca. Eles querem emprestar os livros para as crianças e os pais das crianças. Apesar de
-terem um computador e as estantes necessárias à disposição nessa nova biblioteca, não possuem verba suficiente para um leitor de impressão digital ou para produção
-de carteirinhas para todas as crianças. Para isso, eles precisam de um sistema que gerencie todo o acervo, empréstimos, livros disponíveis, etc. mas que isso ocorra de maneira simples e sem necessidade de novos gastos. Também é importante que haja relatórios, permitindo o controle dos empréstimos e dos livros disponíveis no acervo.
+O grupo em geral possuí duas formas de gerar capital: a venda de contas e os serviços nos quais seus funcionários jogam na conta do cliente. O primeiro caso é para o cliente que não se importa em deixar suas conquistas pessoais para trás, já o segundo, quando o cliente solicita que a Sh1roJobs atue em sua conta, é para que o cliente mantenha o que já tem porém deseja atingir algum objetivo, então um funcionário da Sh1roJobs irá conquistar tal objetivo no lugar do cliente.
 
-## 3- Ordem de Serviço (O.S.)
+Para realizar a venda de uma conta, o grupo atua da seguinte maneira: baseado em uma relação de confiança é realizado um acordo com o cliente, e então é transferido o valor do pagamento assim como as informações de login. Para a contratação de serviços, o processo é semelhante. Essa forma de negócio possuí brechas para golpes, o que torna o negócio menos rentável do que deveria e acaba atraindo menos clientes, uma forma de contornar tais problemas é utilizar uma plataforma que intermedie a relação com o cliente e o vendedor, porém estas plataformas costumam cobrar uma comissão, reduzindo o lucro sobre o negócio.
 
-**Manutenção de computadores**
+## Conclusão
 
-Sr. Sálvio, nosso cliente, fez um curso de manutenção de celulares e smartphones e decidiu abrir um negócio, onde ele é responsável pelos consertos e sua esposa Marília realiza os atendimentos aos clientes. Com sua visão empreendedora, ele sentiu a necessidade de um software que auxilie
-sua esposa nas tarefas diárias. Para isso, ele deseja um sistema que gerencie os clientes, orçamentos, serviços e retirada dos equipamentos. Sendo um negócio pequeno, é muito importante que ele consiga ter relatórios que lhe ajudem na gestão da
-empresa, como dos status dos serviços.
+Os problemas apresentados podem ser resolvidos através do desenvolvimento de um software que permita a Sh1roJobs realizar suas vendas e simultâneamente anunciar seus serviços. Tal plataforma pode possibilitar ao cliente o pagamento via pix/cartão de crédito, de forma que a ordem de serviço será emitida após o pagamento, tornando o negócio mais seguro para o grupo. Ao mesmo tempo, possuir uma plataforma online trará mais confiança aos clientes, visto que o serviço será visto de forma mais profissional, já que atuar negociando pessoalmente com cada cliente é desgastante e não permite expandir o negócio de maneira eficiente, visto que é possível criar um sistema onde o cliente é atendido e no final do serviço pode deixar um feedback, atraindo novos clientes.
 
-# Situação Problema
-
-**Nessa parte a equipe deve descrever a situação problema que será resolvida pelo sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.**
-
-![Ciclo da Venda](docs/ciclo_da_venda.webp "Ciclo da Venda")
-
-Descrevem o que acontece atualmente na empresa em um contexto global,
-abordando o funcionamento da empresa como um todo, não apenas os “problemas” que lá ocorrem.
-
-Sabendo disso, seu papel é **detalhar o funcionamento da empresa escolhida na
-atualidade, ou seja, antes de seu novo software**, usando como base a situação que passamos, mas aprofundando os detalhes de como as coisas acontecem.
-
-- Pesquise sobre empresas do ramo escolhido
-  para entender como funcionam;
-- Aproveite seus conhecimentos previamente adquiridos na área da empresa que escolheu, se houver;
-- Simule uma situação real. Lembre-se que são
-  propostas com empresas fictícias, sendo assim,
-  você terá que tomar certas decisões sobre como
-  a empresa funciona em relação às coisas que
-  não estão definidas no documento base (por
-  exemplo, no caso da padaria, dizemos que seu
-  Genival contratou mais funcionários, mas saber
-  quantos e o que fazem pode ser relevante para o software), então tente “visualizar” a
-  empresa funcionando, como se você estivesse lá acompanhando o dia-a-dia;
-
-Seguindo essas dicas, você deve ser capaz de descrever o dia-a-dia da empresa selecionada. E para ajudar na organização do texto, indicamos uma abordagem em 3 etapas:
-
-- **Introdução**: A equipe Wolf E-Sports sente a necessidade de um software que possibilite a contratação de serviços remotos e a gerência dos mesmos, tendo em vista que realiza toda a logística de forma manual atualmente, necessita de um software completo que providencie um sistema de pagamento online prático e eficiente, facilitando o contato entre o prestador de serviço e o contratante para que o serviço comece o quanto antes, dando suporte para todas as modalidades de venda que a equipe pratica.
-- **Situação-problema**: Com a alta dos jogos online, muitos jogadores sentem a necessidade de estar ranqueado entre os melhores, seja para jogar com pessoas de alto nível ou por simples status. Porém nem sempre é possível alcançar tal ranque por conta própria, por falta de tempo/treino ou coisas do gênero. Então a equipe Wolf E-Sports, que possui muitos jogadores habilidosos, oferece uma espécie de alavancamento no ranque para aqueles que desejam contratar o serviço. O serviço geralmente consiste em o contratante enviar as informações da sua conta no jogo para o prestador de serviço, que por sua vez vai vencer nela uma quantidade de partidas conforme o que foi contratado, o custo varia de acordo com o quão longe o contratante deseja ir, sendo mais barato nos ranques mais baixos e encarecendo linearmente.
-- A Wolf E-Sports também trabalha com venda de contas neste mesmo jogo, variando o preço de acordo com três métricas principais: nível, quantidade de conteúdo adquirido na mesma e ranque.
-
-- **Conclusão**: As principais dificuldades da equipe atualmente são: a baixa confiabilidade da entrega do serviço já que o pagamento é feito de forma manual, necessitando de um software mais prático com pix integrado, e também a logística pouco eficiente que é utilizada atualmente onde o contratante entra em contato com o dono que precisa contactar cada um de seus jogadores para confirmar se há disponibilidade para atender aquele serviço, assim como o repasse do pagamento, e também seria útil um meio de contato entre cliente e prestador de serviço, ou algo do gênero para um acompanhamento em tempo real do progresso do serviço contratado.
-
-# Descrição da proposta
+# **Descrição da proposta**
 
 Após entender o problema, proponha uma solução que será útil nos aspectos de dificuldade encontrados. Assim, aqui você deverá **explicar de maneira resumida, e preferencialmente mais textual, como o software funcionará**. Pense nesse texto como uma **introdução ao seu cliente** do que você pretende fazer por ele, para que ele confirme se realmente está dentro do
 desejado e permita sua continuidade.
@@ -97,13 +57,16 @@ desejado e permita sua continuidade.
   diferentes, etc.
 - **O que poderá ser feito no software**.Apenas o principal, sem pensar em
   telas ou detalhes específicos, pois isso será feito em outro momento.
-  - **Se houver mais de um nível de usuário**, ressaltar as diferenças entre
-    eles na descrição da proposta.
+- **Se houver mais de um nível de usuário**, ressaltar as diferenças entre
+  eles na descrição da proposta.
 
-Tenha em mente que essa é uma etapa relativamente breve. Não é necessário um texto gigantesco, apenas dar uma noção do funcionamento do sistema. Mais adiante
-precisaremos ser bem detalhistas, todavia agora a intenção é apenas fazer algo que permita ao cliente nos dizer se estamos no caminho certo.
+O software a principio terá três páginas principais:
 
-# Regras de negócio - Requisitos funcionais RF
+- **Página Home**: chamativa, com os feedbacks mais positivos em destaque, e diversas informações chamativas para atrair novos clientes.
+- **Página de Vendas**: possibilitará que o grupo Sh1roJobs venda seus produtos virtuais (contas), mostrando todos os anúncios para que os clientes possam adquirir. Também permitirá que vendedores externos anunciem, pagando uma comissão em porcentagem á plataforma no momento da venda.
+- **Página de Serviços**: possibilitará que o grupo Sh1roJobs venda seus serviços, mostrando todas as modalidades contratáveis para que os clientes possam selecionar, realizar o pagamento e todo o processo subsequente.
+
+# **Regras de negócio - Requisitos funcionais RF**
 
 ## Telas
 
