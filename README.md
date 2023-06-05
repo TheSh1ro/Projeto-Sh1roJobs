@@ -64,125 +64,125 @@ O software a principio terá três páginas principais:
 
 - PÁGINA INICIAL (Home)
 
-RF01 - Permitir ao visitante entrar em contato com administradores via chat
+RF1 - Permitir ao visitante entrar em contato com administradores via chat
 
-RF01.1 - A mensagem deverá notificar via email os administradores do site
+RF1.1 - A mensagem deverá notificar via email os administradores do site
 
-RF02 - Exibir ao visitante informações de contato
+RF2 - Exibir ao visitante informações de contato
 
-RF03 - Exibir ao visitante as vendas mais recentes
+RF3 - Exibir ao visitante as vendas mais recentes
 
-RF04 - Exibir ao visitante quantos serviços estão em progresso no momento
+RF4 - Exibir ao visitante quantos serviços estão em progresso no momento
 
-RF05 - Exibir número de acessos ao vivo
+RF5 - Exibir número de acessos ao vivo
 
 - CADASTRO
 
-RF01 - Requisitar ao usuário um nome completo
+RF1 - Requisitar ao usuário um nome completo
 
-RF02 - Requisitar ao usuário sua idade
+RF2 - Requisitar ao usuário sua idade
 
-RF03 - Requisitar ao usuário seu email
+RF3 - Requisitar ao usuário seu email
 
-RF04 - Possibilitar ao usuário inserir seu CPF
+RF4 - Possibilitar ao usuário inserir seu CPF
 
-RF05 - Para exercer as funções de um usuário verificado, exigir a confirmação do email via verificação
+RF5 - Para exercer as funções de um usuário verificado, exigir a confirmação do email via verificação
 
 - PÁGINA DE ADMINISTRAÇÃO
 
-RF01 - Exigir autenticação do usuário para acessar a página
+RF1 - Exigir autenticação do usuário para acessar a página
 
-RF02 - Exibir todas as reclamações em aberto a partir de clientes
+RF2 - Exibir todas as reclamações em aberto a partir de clientes
 
-RF03 - Exibir todas as reclamações em aberto a partir de vendedores
+RF3 - Exibir todas as reclamações em aberto a partir de vendedores
 
-RF04 - Exibir relatório de vendas diárias, semanais e mensais
+RF4 - Exibir relatório de vendas diárias, semanais e mensais
 
-RF05 - Exibir todos os moderadores online no momento
+RF5 - Exibir todos os moderadores online no momento
 
 ## TIPOS DE USUÁRIO
 
 - USUÁRIO NÃO VERIFICADO
 
-RF01 - Restringir quaisquer alterações de dados de cadastro até que o usuário confirme o email
+RF1 - Restringir quaisquer alterações de dados de cadastro até que o usuário confirme o email
 
-RF01.1 - Permitir ao usuário trocar o email de verificação da conta
+RF1.1 - Permitir ao usuário trocar o email de verificação da conta
 
-RF02 - O usuário não verificado pode interagir somente como cliente
+RF2 - O usuário não verificado pode interagir somente como cliente
 
 - USUÁRIO VERIFICADO
 
-RF01 - Permitir que o usuário cadastrado altere sua foto de perfil
+RF1 - Permitir que o usuário cadastrado altere sua foto de perfil
 
-RF02 - Permitir que o usuário cadastrado altere seu nome de exibição
+RF2 - Permitir que o usuário cadastrado altere seu nome de exibição
 
-RF03 - Restringir do usuário a alteração de quaisquer outros dados de cadastro, apenas via suporte
+RF3 - Restringir do usuário a alteração de quaisquer outros dados de cadastro, apenas via suporte
 
-RF04 - Permitir que o usuário cadastrado delete sua conta
+RF4 - Permitir que o usuário cadastrado delete sua conta
 
-RF05 - O usuário verificado com CPF cadastrado pode interagir como vendedor na página de contas
+RF5 - O usuário verificado com CPF cadastrado pode interagir como vendedor na página de contas
 
 - MODERADOR
 
-RF01 - A permissão de moderador só pode ser concedida pela administração do site
+RF1 - A permissão de moderador só pode ser concedida pela administração do site
 
-RF02 - O moderador pode visualizar a área de reclamações em aberto
+RF2 - O moderador pode visualizar a área de reclamações em aberto
 
-RF03 - O moderador pode visualizar a área de reclamações em andamento
+RF3 - O moderador pode visualizar a área de reclamações em andamento
 
-RF04 - O moderador pode alterar informações de cadastro de usuários comuns
+RF4 - O moderador pode alterar informações de cadastro de usuários comuns
 
 ## INTERAÇÕES COM VENDAS E AQUISIÇÕES DE CONTAS
 
 - ANÚNCIO
 
-RF01 - Exigir que o usuário esteja logado com uma conta verificada e com CPF para exercer as funções de anunciante
+RF1 - Exigir que o usuário esteja logado com uma conta verificada e com CPF para exercer as funções de anunciante
 
-RF02 - Permitir ao anunciante divulgar uma conta
+RF2 - Permitir ao anunciante divulgar uma conta
 
-RF03 - Exigir que anuncio tenha título
+RF3 - Exigir que anuncio tenha título
 
-RF03.1 - O título deve ter mais de 10 caracteres
+RF3.1 - O título deve ter mais de 10 caracteres
 
-RF04 - Exigir que o anúncio tenha descrição
+RF4 - Exigir que o anúncio tenha descrição
 
-RF04.1 - A descrição deve ter mais de 20 caracteres
+RF4.1 - A descrição deve ter mais de 20 caracteres
 
-RF04.2 - A descrição deve suportar markdown
+RF4.2 - A descrição deve suportar markdown
 
-RF05 - Exigir que o anúncio tenha uma imagem de capa
+RF5 - Exigir que o anúncio tenha uma imagem de capa
 
-RF06 - Permitir que o anúncio possua imagens extras
+RF6 - Permitir que o anúncio possua imagens extras
 
-RF07 - Exigir que o anúncio possua um preço em BRL
+RF7 - Exigir que o anúncio possua um preço em BRL
 
-RF07.1 - O valor do preço não pode conter decimais
+RF7.1 - O valor do preço não pode conter decimais
 
 - AQUISIÇÃO
 
-RF01 - Exigir que o usuário esteja logado com uma conta, não necessariamente verificada
+RF1 - Exigir que o usuário esteja logado com uma conta, não necessariamente verificada
 
-RF02 - A aquisição de cada conta deve ser feita uma a uma, sem sistema de carrinho
+RF2 - A aquisição de cada conta deve ser feita uma a uma, sem sistema de carrinho
 
-RF03 - Permitir que o usuário realize o pagamento via pix ou cartão de crédito/débito
+RF3 - Permitir que o usuário realize o pagamento via pix ou cartão de crédito/débito
 
-RF04 - Após confirmar a transação, abrir um chat para que cliente e anunciante se comuniquem e realizem a troca de informações sobre o envio do produto
+RF4 - Após confirmar a transação, abrir um chat para que cliente e anunciante se comuniquem e realizem a troca de informações sobre o envio do produto
 
-RF05 - Permitir que o usuário cliente abra uma reclamação solicitando intervenção a administração
+RF5 - Permitir que o usuário cliente abra uma reclamação solicitando intervenção a administração
 
-RF05.1 - O dinheiro da transação deve ser mantido em carteira durante 15 dias
+RF5.1 - O dinheiro da transação deve ser mantido em carteira durante 15 dias
 
-RF05.1 - As reclamações deverão notificar a administração via email
+RF5.1 - As reclamações deverão notificar a administração via email
 
-RF05.2 - Ao abrir uma reclamação, o saldo do vendedor não pode ser sacado temporariamente
+RF5.2 - Ao abrir uma reclamação, o saldo do vendedor não pode ser sacado temporariamente
 
-RF06 - O comprador pode marcar o produto como recebido
+RF6 - O comprador pode marcar o produto como recebido
 
-RF06.1 - O vendedor pode marcar o produto como entregue
+RF6.1 - O vendedor pode marcar o produto como entregue
 
 # Regras de negócio - Requisitos não funcionais RNF
 
-RNF 01 - Navegador: O sistema deverá ser compatível com o Google Chrome, Microsoft Edge, Opera e Firefox.
+RNF01 - Navegador: O sistema deverá ser compatível com o Google Chrome, Microsoft Edge, Opera e Firefox.
 
 RNF02 - Disponibilidade: O sistema deverá estar disponível 24 horas por dia, 7 dias por semana.
 
