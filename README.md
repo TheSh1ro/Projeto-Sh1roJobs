@@ -182,14 +182,14 @@ RF6.1 - O vendedor pode marcar o produto como entregue
 
 # Regras de negócio - Requisitos não funcionais RNF
 
-RNF01 - Navegador: O sistema deverá ser compatível com o Google Chrome, Microsoft Edge, Opera e Firefox.
+RNF1 - Navegador: O sistema deverá ser compatível com o Google Chrome, Microsoft Edge, Opera e Firefox.
 
-RNF02 - Disponibilidade: O sistema deverá estar disponível 24 horas por dia, 7 dias por semana.
+RNF2 - Disponibilidade: O sistema deverá estar disponível 24 horas por dia, 7 dias por semana.
 
-RNF03 - Segurança: O sistema deverá ser seguro, evitando que dados sensíveis dos clientes sejam expostos a terceiros.
+RNF3 - Segurança: O sistema deverá ser seguro, evitando que dados sensíveis dos clientes sejam expostos a terceiros.
 
-RNF04 - Responsividade: O sistema deverá ser responsivo, permitindo que os clientes acessem a loja online de qualquer dispositivo, como computadores, tablets e smartphones.
+RNF4 - Responsividade: O sistema deverá ser responsivo, permitindo que os clientes acessem a loja online de qualquer dispositivo, como computadores, tablets e smartphones.
 
-RNF05 - Desempenho: O software deve ser capaz de processar um número considerado de acessos simultaneamente sem diminuir significativamente o desempenho.
+RNF5 - Desempenho: O software deve ser capaz de processar um número considerado de acessos simultaneamente sem diminuir significativamente o desempenho.
 
-RNF06 - Manutenção: O software deve ser facilmente mantido e atualizado, permitindo que os desenvolvedores adicionem novos recursos sem interromper o funcionamento do site.
+RNF6 - Manutenção: O software deve ser facilmente mantido e atualizado, permitindo que os desenvolvedores adicionem novos recursos sem interromper o funcionamento do site.
