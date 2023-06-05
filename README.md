@@ -10,14 +10,6 @@ Links do projeto:
 - [Backend](github.com/marcoandre/pi-backend)
 - [Frontend](github.com/marcoandre/pi-frontend)
 
-# **Como usar esse modelo para o Projeto Integrador**
-
-1. Faça um fork desse repositório para a sua conta do GitHub.
-2. Clone o repositório para o seu computador.
-3. Abra o arquivo README.md no seu editor de texto favorito (recomendamos o [Visual Studio Code](https://code.visualstudio.com/)).
-4. Tenha instalada a extensão [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) no seu editor de texto.
-5. Edite o arquivo README.md com as informações do seu projeto.
-
 # **Desenvolvimento**
 
 - As equipes serão avaliadas por cada etapa da documentação e entregas realizadas.
