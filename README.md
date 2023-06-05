@@ -187,31 +187,6 @@ RF06 - O comprador pode marcar o produto como recebido
 
 RF06.1 - O vendedor pode marcar o produto como entregue
 
-- INTERAÇÕES COM VENDAS E AQUISIÇÕES DE CONTAS
-  ANÚNCIO
-
-RF01 - Em progresso
-
-RF02 - Em progresso
-
-RF03 - Em progresso
-
-RF04 - Em progresso
-
-RF05 - Em progresso
-
-AQUISIÇÃO
-
-RF01 - Em progresso
-
-RF02 - Em progresso
-
-RF03 - Em progresso
-
-RF04 - Em progresso
-
-RF05 - Em progresso
-
 # Regras de negócio - Requisitos não funcionais RNF
 
 RNF 01 - Navegador: O sistema deverá ser compatível com o Google Chrome, Microsoft Edge, Opera e Firefox.
