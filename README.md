@@ -36,7 +36,7 @@ Para realizar a venda de uma conta, o grupo atua da seguinte maneira: baseado em
 ## Conclusão
 
 Os problemas apresentados podem ser resolvidos através do desenvolvimento de um software que permita a Sh1roJobs realizar suas vendas e simultâneamente anunciar seus serviços. Tal plataforma pode possibilitar ao cliente o pagamento via pix/cartão de crédito, de forma que a ordem de serviço será emitida após o pagamento, tornando o negócio mais seguro para o grupo. Ao mesmo tempo, possuir uma plataforma online trará mais confiança aos clientes, visto que o serviço será visto de forma mais profissional, já que atuar negociando pessoalmente com cada cliente é desgastante e não permite expandir o negócio de maneira eficiente, visto que é possível criar um sistema onde o cliente é atendido e no final do serviço pode deixar um feedback, atraindo novos clientes.
-
+<!--
 # **Descrição da proposta**
 
 Após entender o problema, proponha uma solução que será útil nos aspectos de dificuldade encontrados. Assim, aqui você deverá **explicar de maneira resumida, e preferencialmente mais textual, como o software funcionará**. Pense nesse texto como uma **introdução ao seu cliente** do que você pretende fazer por ele, para que ele confirme se realmente está dentro do
@@ -51,7 +51,7 @@ desejado e permita sua continuidade.
   telas ou detalhes específicos, pois isso será feito em outro momento.
 - **Se houver mais de um nível de usuário**, ressaltar as diferenças entre
   eles na descrição da proposta.
-
+!-->
 O software a principio terá três páginas principais:
 
 - **Página Home**: chamativa, com os feedbacks mais positivos em destaque, e diversas informações chamativas para atrair novos clientes.
