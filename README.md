@@ -141,6 +141,7 @@ RF01 - Exigir que o usuário esteja logado com uma conta verificada e com CPF pa
 RF02 - Permitir ao anunciante divulgar uma conta
 
 RF03 - Exigir que anuncio tenha título
+
 RF03.1 - O título deve ter mais de 10 caracteres
 
 RF04 - Exigir que o anúncio tenha descrição
