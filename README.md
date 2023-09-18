@@ -196,4 +196,6 @@ RNF5 - Desempenho: O software deve ser capaz de processar um número considerado
 
 RNF6 - Manutenção: O software deve ser facilmente mantido e atualizado, permitindo que os desenvolvedores adicionem novos recursos sem interromper o funcionamento do site.
 
-![Imagem](docs/Casos%20de%20uso.png "Ciclo da Venda")
+# Diagrama de casos de uso
+
+![Imagem](docs/Casos%20de%20uso.png "Casos de uso")
