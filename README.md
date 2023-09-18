@@ -36,6 +36,7 @@ Para realizar a venda de uma conta, o grupo atua da seguinte maneira: baseado em
 ## Conclusão
 
 Os problemas apresentados podem ser resolvidos através do desenvolvimento de um software que permita a Sh1roJobs realizar suas vendas e simultâneamente anunciar seus serviços. Tal plataforma pode possibilitar ao cliente o pagamento via pix/cartão de crédito, de forma que a ordem de serviço será emitida após o pagamento, tornando o negócio mais seguro para o grupo. Ao mesmo tempo, possuir uma plataforma online trará mais confiança aos clientes, visto que o serviço será visto de forma mais profissional, já que atuar negociando pessoalmente com cada cliente é desgastante e não permite expandir o negócio de maneira eficiente, visto que é possível criar um sistema onde o cliente é atendido e no final do serviço pode deixar um feedback, atraindo novos clientes.
+
 <!--
 # **Descrição da proposta**
 
@@ -52,6 +53,7 @@ desejado e permita sua continuidade.
 - **Se houver mais de um nível de usuário**, ressaltar as diferenças entre
   eles na descrição da proposta.
 !-->
+
 O software a principio terá três páginas principais:
 
 - **Página Home**: chamativa, com os feedbacks mais positivos em destaque, e diversas informações chamativas para atrair novos clientes.
@@ -193,3 +195,5 @@ RNF4 - Responsividade: O sistema deverá ser responsivo, permitindo que os clien
 RNF5 - Desempenho: O software deve ser capaz de processar um número considerado de acessos simultaneamente sem diminuir significativamente o desempenho.
 
 RNF6 - Manutenção: O software deve ser facilmente mantido e atualizado, permitindo que os desenvolvedores adicionem novos recursos sem interromper o funcionamento do site.
+
+![Imagem](docs/Casos%20de%20uso.png "Ciclo da Venda")
