@@ -1,4 +1,5 @@
 # **ShiroJobs**
+![Imagem](docs/Logo.png "Ciclo da Venda")
 
 Professores: [Marco André Mendes](github.com/marcoandre) e [Alann Perini](https://github.com/AlannKPerini).
 
@@ -13,17 +14,13 @@ Links do projeto:
 
 - O modelo escolhido permite a contratação de serviços, o que atenderá as necessidades da empresa em questão, assim como a venda de produtos, tudo realizado de forma online.
 
-# **Situação Problema**
-
-![Imagem](docs/Logo.png "Ciclo da Venda")
-
 ## Introdução
 
 O grupo de serviços online **Sh1roJobs** vem atuando na área de jogos há poucos meses, tendo jogadores experientes em sua equipe e oferecendo serviços relacionados a tal como jogar na conta de seus clientes e realizar conquistas no lugar destes. O grupo sente a necessidade de um software que possibilite promover e oferecer seus serviços de modo mais profissional, tendo em vista que realiza todas as suas transações e vendas de forma manual, tratando cliente a cliente. Se tratando de um ramo que tende a receber dezenas de requisições de serviço diariamente, a maneira como se dá atualmente é limitante e inviável, necessitando de uma plataforma para tal.
 
 ## Desenvolvimento
 
-O grupo em geral possuí duas formas de gerar capital: a **venda de contas** e os **serviços** nos quais seus funcionários jogam na conta do cliente. O primeiro caso é para o cliente que não se importa em deixar suas conquistas pessoais para trás, já o segundo, quando o cliente solicita que a Sh1roJobs atue em sua conta, é para que o cliente mantenha o que já tem porém deseja atingir algum objetivo, então um funcionário da Sh1roJobs irá conquistar tal objetivo no lugar do cliente.
+O grupo em geral possui duas formas de gerar capital: a **venda de contas** e os **serviços** nos quais seus funcionários jogam na conta do cliente. O primeiro caso é para o cliente que não se importa em deixar suas conquistas pessoais para trás, já o segundo, quando o cliente solicita que a Sh1roJobs atue em sua conta, é para que o cliente mantenha o que já tem porém deseja atingir algum objetivo, então um funcionário da Sh1roJobs irá conquistar tal objetivo no lugar do cliente.
 
 Para realizar a venda de uma conta, o grupo atua da seguinte maneira: baseado em uma relação de confiança é realizado um acordo com o cliente, e então é transferido o valor do pagamento assim como as informações de login. Para a contratação de serviços, o processo é semelhante. Essa forma de negócio possuí brechas para golpes, o que torna o negócio menos rentável do que deveria e acaba atraindo menos clientes, uma forma de contornar tais problemas é utilizar uma **plataforma que intermedie** a relação com o cliente e o vendedor, porém estas plataformas costumam cobrar uma comissão, reduzindo o lucro sobre o negócio.
 
