@@ -20,13 +20,13 @@ O grupo de serviços online **Sh1roJobs** vem atuando na área de jogos há pouc
 
 ## Desenvolvimento
 
-O grupo em geral possui duas formas de gerar capital: a **venda de contas** e os **serviços** nos quais seus funcionários jogam na conta do cliente. O primeiro caso é para o cliente que não se importa em deixar suas conquistas pessoais para trás, já o segundo, quando o cliente solicita que a Sh1roJobs atue em sua conta, é para que o cliente mantenha o que já tem porém deseja atingir algum objetivo, então um funcionário da Sh1roJobs irá conquistar tal objetivo no lugar do cliente.
+O grupo em geral possui duas formas de gerar capital: a **venda de contas** e os **serviços** nos quais seus funcionários jogam na conta do cliente. O primeiro caso é para o cliente que não se importa em deixar suas conquistas pessoais para trás, já o segundo, quando o cliente solicita que a ShiroJobs atue em sua conta, é para que o cliente mantenha o que já tem porém deseja atingir algum objetivo, então um funcionário da ShiroJobs irá conquistar tal objetivo no lugar do cliente.
 
 Para realizar a venda de uma conta, o grupo atua da seguinte maneira: baseado em uma relação de confiança é realizado um acordo com o cliente, e então é transferido o valor do pagamento assim como as informações de login. Para a contratação de serviços, o processo é semelhante. Essa forma de negócio possuí brechas para golpes, o que torna o negócio menos rentável do que deveria e acaba atraindo menos clientes, uma forma de contornar tais problemas é utilizar uma **plataforma que intermedie** a relação com o cliente e o vendedor, porém estas plataformas costumam cobrar uma comissão, reduzindo o lucro sobre o negócio.
 
 ## Conclusão
 
-Os problemas apresentados podem ser resolvidos através do desenvolvimento de um software que permita a Sh1roJobs realizar suas vendas e simultâneamente anunciar seus serviços. Tal plataforma pode possibilitar ao cliente o pagamento via pix/cartão de crédito, de forma que a ordem de serviço será emitida após o pagamento, tornando o negócio mais seguro para o grupo. Ao mesmo tempo, possuir uma plataforma online trará mais confiança aos clientes, visto que o serviço será visto de forma mais profissional, já que atuar negociando pessoalmente com cada cliente é desgastante e não permite expandir o negócio de maneira eficiente, visto que é possível criar um sistema onde o cliente é atendido e no final do serviço pode deixar um feedback, atraindo novos clientes.
+Os problemas apresentados podem ser resolvidos através do desenvolvimento de um software que permita a ShiroJobs realizar suas vendas e simultâneamente anunciar seus serviços. Tal plataforma pode possibilitar ao cliente o pagamento via pix/cartão de crédito, de forma que a ordem de serviço será emitida após o pagamento, tornando o negócio mais seguro para o grupo. Ao mesmo tempo, possuir uma plataforma online trará mais confiança aos clientes, visto que o serviço será visto de forma mais profissional, já que atuar negociando pessoalmente com cada cliente é desgastante e não permite expandir o negócio de maneira eficiente, visto que é possível criar um sistema onde o cliente é atendido e no final do serviço pode deixar um feedback, atraindo novos clientes.
 
 <!--
 # **Descrição da proposta**
@@ -48,8 +48,8 @@ desejado e permita sua continuidade.
 O software a principio terá três páginas principais:
 
 - **Página Home**: chamativa, com os feedbacks mais positivos em destaque, e diversas informações chamativas para atrair novos clientes.
-- **Página de Vendas**: possibilitará que o grupo Sh1roJobs venda seus produtos virtuais (contas), mostrando todos os anúncios para que os clientes possam adquirir. Também permitirá que vendedores externos anunciem, pagando uma comissão em porcentagem á plataforma no momento da venda.
-- **Página de Serviços**: possibilitará que o grupo Sh1roJobs venda seus serviços, mostrando todas as modalidades contratáveis para que os clientes possam selecionar, realizar o pagamento e todo o processo subsequente.
+- **Página de Vendas**: possibilitará que o grupo ShiroJobs venda seus produtos virtuais (contas), mostrando todos os anúncios para que os clientes possam adquirir. Também permitirá que vendedores externos anunciem, pagando uma comissão em porcentagem á plataforma no momento da venda.
+- **Página de Serviços**: possibilitará que o grupo ShiroJobs venda seus serviços, mostrando todas as modalidades contratáveis para que os clientes possam selecionar, realizar o pagamento e todo o processo subsequente.
 
 # **Regras de negócio - Requisitos funcionais RF**
 
