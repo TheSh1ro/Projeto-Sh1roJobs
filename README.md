@@ -1,6 +1,4 @@
-# **Projeto Integrador - Modelo**
-
-Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
+# **ShiroJobs**
 
 Professores: [Marco André Mendes](github.com/marcoandre) e [Alann Perini](https://github.com/AlannKPerini).
 
@@ -10,11 +8,6 @@ Links do projeto:
 - [Backend](https://github.com/TheSh1ro/shiroBackend)
 - [Frontend](https://github.com/TheSh1ro/vueShiro)
 - [App](https://github.com/TheSh1ro/reactShiro)
-
-# **Desenvolvimento**
-
-- As equipes serão avaliadas por cada etapa da documentação e entregas realizadas.
-- Cada equipe deverá escolher um sistema para o desenvolvimento das atividades, a partir dos modelos apresentados.
 
 # **Modelo de Sistemas: Ordem de Serviço**
 
