@@ -7,8 +7,9 @@ Professores: [Marco André Mendes](github.com/marcoandre) e [Alann Perini](https
 Links do projeto:
 
 - [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
-- [Backend](github.com/marcoandre/pi-backend)
-- [Frontend](github.com/marcoandre/pi-frontend)
+- [Backend](https://github.com/TheSh1ro/shiroBackend)
+- [Frontend](https://github.com/TheSh1ro/vueShiro)
+- [App](https://github.com/TheSh1ro/reactShiro)
 
 # **Desenvolvimento**
 
